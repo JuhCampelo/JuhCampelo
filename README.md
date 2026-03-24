@@ -1,7 +1,8 @@
 # 👾 Júlia Campêlo
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="40px" max-width="400px" width="300px" align="right">
 
-**'Desenvolvedora Front-End'**
+**`Desenvolvedora Front-end`**
+
 
 Me chamo Júlia, tenho 17 anos e estou concluindo o curso de Desenvolvimento de Sistemas na escola técnica EEEP Comendador Miguel Gurgel. Tenho um grande amor pela tecnologia e quero crescer na área da programação. Se não estou estudando, estou imersa em livros ou ampliando meu conhecimento sobre o mundo.
 
